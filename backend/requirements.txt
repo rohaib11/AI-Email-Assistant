@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+
+transformers
+torch
+spacy
+nltk
+scikit-learn
+textblob
+fastapi-cors
